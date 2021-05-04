@@ -20,7 +20,8 @@ Choose from these dashboards:
 
 [LinkedIn Top Skills](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
-
+My project:
+https://github.com/TMQ5/Business-Analytics-Nanodegree-Program/blob/main/Dashboard%20for%20LinkedIn%20Top%20Skills%20Report.pdf
 
 
 ## Project2 (Analyze NYSE Data)
