@@ -44,3 +44,10 @@ Your assumptions for revenue growth, gross margin and operating margin should ch
 The forecasting model should be dynamic for the selection of the case (Weak, Base, Strong). However, the forecasting model can be static for the chosen company sticker symbol.
 Deliverable: Spreadsheet with tab for Forecasting Model
 
+
+
+
+
+## [project3 (Predicting Diamond Prices)]()
+### Project description
+A diamond distributor has recently decided to exit the market and has put up a set of 3,000 diamonds up for auction. Seeing this as a great opportunity to expand its inventory, a jewelry company has shown interest in making a bid. To decide how much to bid, the company’s analytics team used a large database of diamond prices to build a linear regression model to predict the price of a diamond based on its attributes. You, as the business analysts, are tasked to apply that model to make a recommendation for how much the company should bid for the entire set of 3,000 diamonds.
