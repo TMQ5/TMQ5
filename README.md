@@ -2,6 +2,7 @@
 
 # Overview:
 This is a nanodegree program provided by Udacity learning platform and sponsored by Misk Academy in Future Seekers Challenge. [Click on this link to check out my certification here](https://confirm.udacity.com/QVEXPQG3).
+
 This course help to learn foundational data skills that apply across functions and industries. Learn to analyze data and build models with Excel, and create informative data visualizations with Tableau. Gain foundational data skills applicable to any industry. Collect and analyze data, model business scenarios, and communicate the findings with  Excel, and Tableau.
 
 
