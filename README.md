@@ -74,3 +74,8 @@ You must submit url links for each of your visuals from Tableau Public. If you n
 Summary: brief description of the visualization and the main story or findings conveyed
 Design: explain any design choices you made including changes to the visualization after collecting feedback
 Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
+
+
+
+## Acknowledgement:
+I'd like to thanks Udacity and Misk Academy for this great opportunity.
