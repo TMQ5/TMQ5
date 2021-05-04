@@ -18,3 +18,9 @@ Choose from these dashboards:
 [Malaria in Africa](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 
 [LinkedIn Top Skills](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
+
+
+# Project2 (
+
+In this project we will analyze real life data from the New York Stock Exchange. You will be drawing a subset of a large dataset provided by [Kaggle](https://www.kaggle.com/dgawlik/nyse) that contains historical financial data from S&P 500 companies. We have created a smaller subset of the data that you will be using for the project.
+
