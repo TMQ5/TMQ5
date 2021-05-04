@@ -3,4 +3,4 @@ This is a nanodegree program provided by Udacity learning platform and sponsored
 https://confirm.udacity.com/QVEXPQG3
 
 
-## NYSE
+## Project1 (Interpret a Data Visualization)
