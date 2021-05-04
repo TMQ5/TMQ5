@@ -48,6 +48,29 @@ Deliverable: Spreadsheet with tab for Forecasting Model
 
 
 
-## [project3 (Predicting Diamond Prices)](https://github.com/TMQ5/Business-Analytics-Nanodegree-Program/blob/main/Diamonds%20Project.pdf)
+## [Project3 (Predicting Diamond Prices)](https://github.com/TMQ5/Business-Analytics-Nanodegree-Program/blob/main/Diamonds%20Project.pdf)
 ### Project description
 A diamond distributor has recently decided to exit the market and has put up a set of 3,000 diamonds up for auction. Seeing this as a great opportunity to expand its inventory, a jewelry company has shown interest in making a bid. To decide how much to bid, the company’s analytics team used a large database of diamond prices to build a linear regression model to predict the price of a diamond based on its attributes. You, as the business analysts, are tasked to apply that model to make a recommendation for how much the company should bid for the entire set of 3,000 diamonds.
+
+
+
+
+
+## [Project4 (Build Data Dashboards)](https://github.com/TMQ5/Business-Analytics-Nanodegree-Program/blob/main/Build%20Data%20Dashboards.pdf)
+### Project description
+In this project, you'll create visualizations to reveal insights from a data set. You will create data visualizations that tell a story or highlight patterns in the data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+
+There are 3 different data sets you can choose from.
+
+Flight Delays and Cancellations
+US Census Demographic Data
+Youtube Data from the US
+
+Make sure you include the following files and information:
+
+A PDF or Markdown report that includes the following sections:
+Links to your dashboards or story
+You must submit url links for each of your visuals from Tableau Public. If you need a reminder on how to save to Tableau Public, please see the next concept.
+Summary: brief description of the visualization and the main story or findings conveyed
+Design: explain any design choices you made including changes to the visualization after collecting feedback
+Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
