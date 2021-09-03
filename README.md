@@ -1,15 +1,17 @@
 # Business-Analytics-Nanodegree-Program
-## Overview:
-This is a nanodegree program provided by Udacity learning platform and sponsored by Misk Academy in Future Seekers Challenge. [Click on this link to check out my certification](https://confirm.udacity.com/QVEXPQG3).
+![my certification](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/ad3fb5b5-6615-4003-ae30-81a595617a69.svg)
 
-This course help to learn foundational data skills that apply across functions and industries. Learn to analyze data and build models with Excel, and create informative data visualizations with Tableau. Gain foundational data skills applicable to any industry. Collect and analyze data, model business scenarios, and communicate the findings with  Excel, and Tableau.
+## Overview:
+This is a nanodegree program provided by [Udacity](https://www.udacity.com/course/business-analytics-nanodegree--nd098) learning platform and sponsored by [Misk Academy in Future Seekers Challenge](https://miskchallenge.com).
+
+This course help to learn foundational data skills that apply across functions and industries. Learn to analyze data and build models with Excel, and create informative data visualizations with Tableau. Gain foundational data skills applicable to any industry. Collect and analyze data, model business scenarios, and communicate the findings with Excel, and Tableau.
 
 
 
 ## [Project1 (Interpret a Data Visualization)](https://github.com/TMQ5/Business-Analytics-Nanodegree-Program/blob/main/Dashboard%20for%20LinkedIn%20Top%20Skills%20Report.pdf)
 ### Project description
 
-This project is aimed at analysis using data visualization in Tableau. we’ve selected a few Tableau dashboards for you to explore. 
+This project is aimed at analysis using data visualization in Tableau. we’ve selected a few Tableau dashboards for you to explore.
 
 Choose one of these dashboards, whichever one interests you the most:
 
@@ -31,7 +33,7 @@ In this project we will analyze real life data from the New York Stock Exchange.
 
 ### Task 1:
  Identify the question about the data that you will answer based on your data analysis, and include this in your slide presentation.
- 
+
  ### Task 2:
  Create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit or EBIT for a company selected from a drop-down list.
 Your drop-down list should pull historical fundamentals data to create the P&L Statement.
@@ -75,7 +77,7 @@ Summary: brief description of the visualization and the main story or findings c
 Design: explain any design choices you made including changes to the visualization after collecting feedback
 Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
 
-
+[Click on this link to check out my certification](https://confirm.udacity.com/QVEXPQG3).
 
 ## Acknowledgement:
 I'd like to thanks Udacity and Misk Academy for this great opportunity.

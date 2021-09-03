@@ -1,4 +1,4 @@
-# Predicting Diamonds Prices 
+# Predicting Diamonds Prices
 ## Project description
 A diamond distributor has recently decided to exit the market and has put up a set of 3,000 diamonds up for auction. Seeing this as a great opportunity to expand its inventory, a jewelry company has shown interest in making a bid. To decide how much to bid, the company’s analytics team used a large database of diamond prices to build a linear regression model to predict the price of a diamond based on its attributes. You, as the business analysts, are tasked to apply that model to make a recommendation for how much the company should bid for the entire set of 3,000 diamonds.
 
@@ -8,7 +8,7 @@ The following diagram represents the analysis at a high level. Since the model i
 
 The linear regression model provides an equation that you can use to predict diamond prices for the set of 3,000 diamonds. The equation is below:
 
-`**Price** = -5,269 + 8,413 x **Carat** + 158.1 x **Cut** + 454 x **Clarity**`
+`Price = -5,269 + 8,413 x Carat + 158.1 x Cut + 454 x Clarity`
 
 #### Step 1 – Understand the data: There are two datasets
 * **diamonds.csv** contains the data used to build the regression model.
@@ -26,3 +26,6 @@ For each diamond, plug in the values for each of the variables into the linear m
 
 #### Step 3 – Make a recommendation
 Now that you have the predicted price for each diamond, it’s time to calculate the bid price for the whole set. Note: The diamond price that the model predicts represents the final retail price the consumer will pay. The company generally purchases diamonds from distributors at 70% of that price, so your recommended bid price should represent that.
+
+## Project Rubric
+After completing the project by filling out the submission template and reviewing it using the [project rubric](https://review.udacity.com/#!/rubrics/463/view).
