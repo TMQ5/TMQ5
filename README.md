@@ -6,7 +6,7 @@ This Nanodegree program provided by [Udacity](https://www.udacity.com/course/bus
 
 It's helps to learn foundational data skills that apply across functions and industries. Learn to analyze data and build models with Excel, and create informative data visualizations with Tableau. Gain foundational data skills applicable to any industry. Collect and analyze data, model business scenarios, and communicate the findings with Excel, and Tableau.
 
-## Project Courses
+## Program Courses
 ### Welcome to the Nanodegree program
 Meet your instructors and learn how to optimize your classroom. Learn how people use data to answer questions, and find your own insights from a data dashboard.
 * [**Project1: Interpret a Data Visualization**](https://github.com/TMQ5/Business-Analytics-Nanodegree-Program/tree/main/Interpret%20a%20Data%20Visualization%20Project)
